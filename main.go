@@ -30,7 +30,7 @@ const (
 	TYPE = "post"
 	DISTANCE = "200km"
 	// Needs to update
-	PROJECT_ID = "around-post"
+	PROJECT_ID = "Around"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
 	ES_URL = "http://54.244.14.173:9200"
